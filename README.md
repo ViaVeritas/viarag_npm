@@ -201,8 +201,8 @@ const client = new ViaRAGClient({
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/viarag-sdk.git
-cd viarag-sdk
+git clone https://github.com/ViaVeritas/viarag_npm.git
+cd viarag_npm
 npm install
 ```
 
